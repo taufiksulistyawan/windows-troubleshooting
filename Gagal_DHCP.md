@@ -25,6 +25,9 @@ Sekarang tambahkan manual:
 ```cmd
 route add 0.0.0.0 mask 0.0.0.0 192.168.20.1 metric 1 if 20
 ```
+> `if 20` sesuai dengan interface number UE200 kamu (lihat di atas: `Interface List` → `20...28 ee 52 05 31 8e` = nomor 20).
+
+Kalau berhasil, cek lagi:
 
 Kalau sudah beres, biar permanen:
 
