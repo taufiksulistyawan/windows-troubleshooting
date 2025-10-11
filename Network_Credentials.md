@@ -1,4 +1,3 @@
-```markdown
 # Mengatasi Network Credentials pada Folder Sharing di Windows
 
 Ketika melakukan **folder sharing** di Windows, terkadang muncul kendala berupa permintaan **Network Credentials** yang menyulitkan akses antar komputer.  
