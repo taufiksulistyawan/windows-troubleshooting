@@ -23,3 +23,6 @@
    ```
    shutdown -r -f -t 00
    ```
+
+   Link Video:
+   https://youtu.be/nkm9adHeN-Y?si=2-t6DDpskbtjcW58
