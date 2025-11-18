@@ -1,4 +1,4 @@
-**Cara Memperbaiki Error Printer Windows 11 Kode 0x00000040 / 0x00000709**
+## **Cara Memperbaiki Error Printer Windows 11 Kode 0x00000040 / 0x00000709**
 
 ## **Langkah-langkah pada PC Server (Server Printer)**
 
