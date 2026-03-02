@@ -26,3 +26,29 @@
 
    Link Video:
    https://youtu.be/nkm9adHeN-Y?si=2-t6DDpskbtjcW58
+
+### 1. pc server
+regedit
+HLM\SYSTEM\CurentControlSet\control\Print
+Dword 32bit
+```
+RpcAuthLevelPrivacyEnabeled
+```
+hexadecimal 0
+restart pc
+### 2. client
+services.msc
+stop print spooler
+Exloler > C: > Windows > System32 > Spool> PRINTERS (hapus)
+Copy abd replace file: https://drive.google.com/file/d/1bCQ78cLf-F2TIO_hAAJ3ZxEwPnri4vcp/view?usp=sharing
+C: > Windows > System32
+
+aktifkan print spool
+restart
+### 3. tidak bisa replace
+klik kanan file 
+properties
+security
+advance> change> tambahkan Administrator> cek name. oke apply
+change permissions> trustet di ganti reade dan write saja> 
+Administrator jadi full control
