@@ -46,6 +46,7 @@
 
   * C: Sistem
   * D: Data / Kerja Editor
+  * E: Data / Pribadi - Sharing
 
 #### Windows Explorer
 
