@@ -45,7 +45,7 @@
 * [ ] **Partisi Hardisk**
 
   * C: Sistem
-  * D: Data / Kerja Editor
+  * D: Project
   * E: Data / Pribadi - Sharing
 
 #### Windows Explorer
