@@ -7,6 +7,9 @@ Saya sarankan lakukan ini berurutan:
 ```
 DISM /Online /Cleanup-Image /RestoreHealth
 ```
+```
+sfc /scannow
+```
 
 2️⃣ Install ulang **driver Intel HD**
 
